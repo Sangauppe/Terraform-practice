@@ -13,7 +13,7 @@ variable "number_type_var" {
 variable "number_type_ex_02_var" {
     type = number
     description = "another example of a number type variable"
-    default = "100"
+    default = "90"
 }
 
 
